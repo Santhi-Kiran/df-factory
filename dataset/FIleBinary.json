@@ -1,0 +1,17 @@
+{
+	"name": "FIleBinary",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "vm_server",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "FileServerLocation"
+			}
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

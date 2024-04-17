@@ -1,0 +1,6 @@
+{
+	"name": "vmruntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

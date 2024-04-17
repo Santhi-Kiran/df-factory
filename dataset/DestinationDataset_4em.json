@@ -1,0 +1,17 @@
+{
+	"name": "DestinationDataset_4em",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "dp203synapse1_service_pooldb",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlDWTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "<Custom query>"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "appdatafactory-dp203",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b35c1ddc-63ee-4529-924c-70ebc01b7b11",
+		"tenantId": "65a4df8a-a8cb-41ab-b3b9-9c49dea58e76"
+	}
+}
